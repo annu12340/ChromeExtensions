@@ -1,0 +1,4 @@
+video,
+img {
+  filter: invert(1) !important;
+}
