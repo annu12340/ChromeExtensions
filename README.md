@@ -16,3 +16,12 @@ This is just a simple trial extension that displays an page in dark mode! This i
 Move sure that the extension is enabled
 
 ``` That's all folks ```
+
+
+# Demo
+
+### **Before**
+![before](https://user-images.githubusercontent.com/43414928/94152239-f9f09880-fe98-11ea-8fe5-3c57b482ecc4.png)
+
+### **After**
+![after](https://user-images.githubusercontent.com/43414928/94152243-fa892f00-fe98-11ea-874a-d7745744e500.png)
