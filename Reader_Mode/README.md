@@ -9,7 +9,7 @@
 
  If all goes well, you would be able to view the extension
  
- ![Screenshot1](https://user-images.githubusercontent.com/43414928/94149644-c6f8d580-fe95-11ea-8855-da1b6fdc6b4c.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/43414928/98240910-2b787b80-1f90-11eb-9eb7-da177dc56bda.png)
 
 Move sure that the extension is enabled
 
@@ -18,4 +18,4 @@ Move sure that the extension is enabled
 
 # Demo
 
-![Webp net-gifmaker (6)](https://user-images.githubusercontent.com/43414928/98238891-164e1d80-1f8d-11eb-8d54-0428baff4be3.gif)
+![Webp net-gifmaker (8)](https://user-images.githubusercontent.com/43414928/98240843-0c79e980-1f90-11eb-86e5-74c9273150e7.gif)
