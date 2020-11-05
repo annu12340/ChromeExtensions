@@ -1,0 +1,19 @@
+{
+  "name": "Reader mode",
+  "version": "2.0",
+  "description": " Distractions abound while reading an article online. This chrome extensions removes all such distractions ",
+  "author": "Annu",
+  "manifest_version": 2,
+  "icons": { "512": "logo.png" },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["reader.js"],
+      "css": ["reader.css"]
+    }
+  ],
+  "browser_action": {
+    "default_title": "Reader mode extension",
+    "default_icon": "logo.png"
+  }
+}
